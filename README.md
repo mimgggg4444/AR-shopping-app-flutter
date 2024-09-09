@@ -1,4 +1,4 @@
-# shopping-app-flutter
+# AR-shopping-app-flutter
 졸프2
 
 1. 한글화 - pass
