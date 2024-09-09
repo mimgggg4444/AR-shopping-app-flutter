@@ -15,6 +15,8 @@ ar proj ->
 2. 제품 등록 및 glb file 모음 - **fail** -> flutter upgrade -> flutter pub upgrade ->
      방법 -> 원본 프로젝트 가져오기 -> glb 파일 address 바꿔줘야 함
 
+android -> delete -> flutter create .
+
 ``` 
 ==============================================================================
 Running Gradle task 'assembleDebug'...                               
